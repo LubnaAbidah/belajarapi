@@ -1,9 +1,10 @@
-Publication Settings
+#DOCUMENTATIONS API
 
 PUBLISHED
 Collection details
 URL for published documentation
 https://documenter.getpostman.com/view/14658215/2s9YJc1i4p
+
 Collection name
 API Products
 
